@@ -50,7 +50,3 @@ src="https://img.shields.io/github/followers/STRK-ND?logo=github&style=for-the-b
 <a href="http://www.github.com/STRK-ND"><img src="https://github-readme-streak-stats.herokuapp.com/?user=STRK-ND&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/STRK-ND"><img src="https://activity-graph.herokuapp.com/graph?username=STRK-ND&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/rajtkashyap154"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
